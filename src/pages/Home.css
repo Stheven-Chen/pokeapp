@@ -1,0 +1,14 @@
+#title{
+    margin-right: 50px;
+}
+
+#pokeimg{
+    height: 150px;
+    width: 100%;
+}
+#pokemodalimg{
+    width: 100%;
+}
+#modalclosebtn{
+    padding-right: 10px;
+}
